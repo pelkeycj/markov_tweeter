@@ -1,0 +1,9 @@
+markov_tweeter TODO:
+
+-Process all tweets to remove links and mentions
+-Create a class to generate markov chains
+-Create a file to tweet generated chains
+ 
+-Add time-scheduled function to get newest tweets
+        -process before appending to csv
+                                         
